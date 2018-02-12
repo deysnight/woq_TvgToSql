@@ -1,0 +1,1 @@
+INSERT INTO `question`(`num`,`ID`,`question`,`true_rep`,`false_rep_1`,`false_rep_2`,`false_rep_3`,`false_rep_4`,`false_rep_5`,`category`,`sub_category`,`nb_question`,`result_question`,`tooltip`) VALUES (1,'','','','','','','','','',NULL,0,0,'');
